@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans");
+#centure {
+    width: 21%;
+    border-radius: 5%;
+}
+
+
+/* #dog {
+    display: flex;
+}
+
+#dog h2 {
+    display: flex;
+    justify-content: center;
+} */
+
+.produit1 {
+    display: flex;
+}
+
+.price1 {
+    margin: 3%;
+    background: #f8f2f2;
+    border-radius: 10%;
+    color: red;
+}
